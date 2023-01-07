@@ -1,4 +1,4 @@
-# !/usr/bin/python3
+#!/usr/bin/python3
 # 6-print_matrix_integer.py
 # Ogochukwu GloriaMary Nwanochiri <alxswe.com>
 
